@@ -782,7 +782,7 @@ body {
   .info__item-title::before {
     content: "";
     position: absolute;
-    background: url(../img/info/next.png) 0 0 no-repeat;
+    background: url(../img/info/next.png) 0 0/cover no-repeat;
     width: 0.75rem;
     height: 0.9375rem;
     background-size: cover;
